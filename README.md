@@ -21,6 +21,7 @@ In this lab, I learned how to turn an ESP32 into a Wi-Fi Access Point and web se
 - Keep the workstation organized
 # Assembly Diagram
 <img width="762" height="572" alt="image" src="https://github.com/user-attachments/assets/1092e792-2846-402c-90e7-b300896d5d63" />
+
 # Circuit Diagram
 <img width="566" height="196" alt="image" src="https://github.com/user-attachments/assets/70cf962a-c927-4f4c-b9dc-234c0a1758e5" />
 
